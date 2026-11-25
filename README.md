@@ -19,6 +19,7 @@ Open [`index.html`](index.html) in a modern browser. To share it through a stati
 
 ### Mapping practice
 
+- Shows the mapping testcross, such as `AaBbCc × aabbcc`. The table counts the heterozygous parent's gametes, which the homozygous lowercase tester makes identifiable in progeny. The progeny genotype counts identify the parental gamete classes, from which students infer the heterozygote’s phase.
 - Generates genotype counts for 100, 1,000, or 10,000 gametes and offers a CSV download.
 - The guided view calculates adjacent two-point recombination fractions. For three genes, it also shows apparent double recombinants, the coefficient of coincidence (COC), and interference.
 - **Student problem** hides the chromosome, positions, phase, and solution. **Generate new sample** repeats the current hidden setup.
